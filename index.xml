@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dhanush</title>
+    <link>https://shankar-dh.github.io/Personal-blog/</link>
+    <description>Recent content on Dhanush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shankar-dh.github.io/Personal-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing ML algorithms from scratch</title>
+      <link>https://shankar-dh.github.io/Personal-blog/blogs/ml_from_scratch/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://shankar-dh.github.io/Personal-blog/blogs/ml_from_scratch/</guid>
+      <description>To further improve upon my knowledge on ML algorithms, I&amp;rsquo;m trying to implement popular algorithms from scratch only using NumPy. Even though the world is moving towards LLMs, Rags and Langchain I belive that having a strong foundation would really help in understanding these advanced algorithms better.
+You can find my progress in this repository and I&amp;rsquo;d welcome any feedback!</description>
+    </item>
+    <item>
+      <title>Hello there👋</title>
+      <link>https://shankar-dh.github.io/Personal-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shankar-dh.github.io/Personal-blog/</guid>
+      <description>I&amp;rsquo;m Dhanush Kumar Shankar from Boston Massachusetts. I have completed my Master&amp;rsquo;s degree in Information Systems from Northeastern University. I&amp;rsquo;m trying to catch up with the current advancements in AI, and this has been quite interesting but pretty challenging. My areas of interest and my speciality lies in Natural Language Processing (NLP).
+I have worked as a Senior Machine Learning Engineer at Standard Chareted Bank in India for nearly 2.</description>
+    </item>
+  </channel>
+</rss>
