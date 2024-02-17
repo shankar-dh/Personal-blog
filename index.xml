@@ -10,9 +10,9 @@
     <atom:link href="https://shankar-dh.github.io/Personal-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing ML algorithms from scratch</title>
-      <link>https://shankar-dh.github.io/Personal-blog/blogs/ml_from_scratch/</link>
+      <link>https://shankar-dh.github.io/Personal-blog/blogs/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://shankar-dh.github.io/Personal-blog/blogs/ml_from_scratch/</guid>
+      <guid>https://shankar-dh.github.io/Personal-blog/blogs/</guid>
       <description>To further improve upon my knowledge on ML algorithms, I&amp;rsquo;m trying to implement popular algorithms from scratch only using NumPy. Even though the world is moving towards LLMs, Rags and Langchain I belive that having a strong foundation would really help in understanding these advanced algorithms better.
 You can find my progress in this repository and I&amp;rsquo;d welcome any feedback!</description>
     </item>
