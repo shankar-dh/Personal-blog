@@ -1,5 +1,5 @@
-baseURL: "https://shankar-dh.github.io/Personal-blog/"
-languageCode: 'en-us'
+baseURL: ''
+languageCode: "en-us"
 title: 'Dhanush'
 theme: 'PaperMod'
 
@@ -31,3 +31,4 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
