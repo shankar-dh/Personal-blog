@@ -1,9 +1,10 @@
-baseURL: ''
-languageCode: "en-us"
+baseURL: 'https://shankar-dh.github.io/'
+languageCode: 'en-us'
 title: 'Dhanush'
 theme: 'PaperMod'
 
 params:
+  gitRepo: https://github.com/shankar-dh/shankar-dh.github.io
   ShowBreadCrumbs: true
   ShowReadingTime: true
 
