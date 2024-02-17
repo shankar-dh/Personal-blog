@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: "https://shankar-dh.github.io/Personal-blog/"
 languageCode: 'en-us'
 title: 'Dhanush'
 theme: 'PaperMod'
